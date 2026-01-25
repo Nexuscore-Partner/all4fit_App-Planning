@@ -12,10 +12,6 @@
 
 ## 🎨 Service Journey: 기획에서 서비스까지
 
-| **1. 문제 정의** | **2. 기획 & 설계** | **3. 화면 설계** | **4. 개발 협업** |
-|:---:|:---:|:---:|:---:|
-| *사용자 리서치 & 페르소나* | *PRD, API 명세, IA* | *Figma 와이어프레임* | *개발팀과 소통 & QA* |
-
 | **1. 화면 기획서** | **2. 디자인 시스템** | **3. 랜딩 페이지** | **4. 앱 화면** |
 | :---: | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/87e4d881-d4fb-457a-860d-23c8b29f98b2" width="200" alt="Wireframe"> | <img src="https://github.com/user-attachments/assets/7a46549f-de4e-42cd-8e65-b2b76c29c092" width="200" alt="Design System"> | <img src="https://github.com/user-attachments/assets/c9534463-d44e-4263-bb4a-916b43ce5184" width="200" alt="Landing Page"> | <img src="https://github.com/user-attachments/assets/5292b766-f669-4e8b-9dcf-a6456c330297" width="200" alt="App Screen"> |
