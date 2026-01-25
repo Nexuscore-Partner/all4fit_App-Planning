@@ -16,6 +16,11 @@
 |:---:|:---:|:---:|:---:|
 | *사용자 리서치 & 페르소나* | *PRD, API 명세, IA* | *Figma 와이어프레임* | *개발팀과 소통 & QA* |
 
+| **1. 화면 기획서** | **2. 디자인 시스템** | **3. 랜딩 페이지** | **4. 앱 화면** |
+| :---: | :---: | :---: | :---: |
+| <img src="images/readme/wireframe.png" width="200" alt="Wireframe"> | <img src="images/readme/design-system.png" width="200" alt="Design System"> | <img src="images/readme/web-preview.jpeg" width="200" alt="Landing Page"> | <img src="images/readme/app-combined.png" width="200" alt="App Screen"> |
+| *UX 흐름 및 와이어프레임* | *Figma 디자인 시스템* | *[all4fit.co.kr](https://all4fit.co.kr)* | *iOS/Android 실서비스* |
+
 ---
 
 ## 👥 Meet the Team (NEXUSCORE)
@@ -23,7 +28,8 @@
 본 프로젝트의 기획 및 PM을 담당한 핵심 인력입니다.
 
 | **Lead PM / Strategy** | **Product Manager / Design** |
-|:---:|:---:|
+| :---: | :---: |
+| <p align="center"><img src="https://avatars.githubusercontent.com/jinseok19" width="100" height="100" style="border-radius: 5%;"></p><p align="center"><a href="https://github.com/jinseok19"><img src="https://img.shields.io/badge/jinseok19-181717?style=for-the-social&logo=github&logoColor=white"/></a></p> | <p align="center"><img src="https://avatars.githubusercontent.com/hwruchan" width="100" height="100" style="border-radius: 5%;"></p><p align="center"><a href="https://github.com/hwruchan"><img src="https://img.shields.io/badge/hwruchan-181717?style=for-the-social&logo=github&logoColor=white"/></a></p> |
 | **김진석 (Kim Jin-seok)** | **김정찬 (Kim Jeong-chan)** |
 | 프로젝트 총괄 및 전략 기획 | 서비스 기획 및 UI/UX 설계 |
 
