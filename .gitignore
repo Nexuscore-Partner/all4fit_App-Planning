@@ -1,0 +1,67 @@
+# PM Portfolio .gitignore
+
+# 한글 문서 파일
+*.hwp
+*.hwpx
+*.doc
+*.docx
+
+# 엑셀 파일 (CSV, MD로 변환된 것만 보관)
+*.xls
+*.xlsx
+
+# 임시 파일
+~$*
+*.tmp
+*.temp
+
+# 압축 파일
+*.zip
+*.rar
+*.7z
+
+# 미디어 파일
+*.mp4
+*.avi
+*.mov
+*.m4a
+*.mp3
+*.wav
+
+# 이미지 원본 (필요한 것만 선택적으로 보관)
+# *.psd
+# *.ai
+
+# OS 관련
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 로그 파일
+*.log
+logs/
+
+# 백업 파일
+*.bak
+*.backup
+
+# 개인정보가 포함될 수 있는 파일
+*_PRIVATE*
+*_SECRET*
+*.env
+credentials.*
+*사업자등록증*
+*과업지시서*
+*계약서*
+*견적서*
+
+# 특정 폴더 제외
+govtech/
+LOGO/star_jedi/
+PM/*/팀원용/

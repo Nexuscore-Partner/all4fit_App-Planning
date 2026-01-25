@@ -1,0 +1,16 @@
+﻿계층,메뉴코드,메뉴명,설명,경로(URL),하위(요약),관련 기능ID
+L2,DASH,대시보드,"KPI, 최근 로그",/dashboard,"DASH-001,DASH-002","DASH-001,DASH-002"
+L2,COMM,커뮤니티,방 관리·신고,/community,,ROOM-001~005
+L3,COMM-LIST,방 목록,필터/검색/일괄작업,/community/rooms,,ROOM-001
+L3,COMM-NEW,방 생성,공식 방 생성,/community/rooms/new,,ROOM-002
+L3,COMM-DETAIL,방 상세,"정보 수정, 운영자 지정",/community/rooms/:id,,ROOM-003
+L3,COMM-REPORT,신고 처리,신고 리스트·조치,/community/reports,,ROOM-005
+L2,MEM,회원,회원 검색·권한·제재,/members,,USER-001~003
+L3,MEM-LIST,회원 목록,검색/필터,/members,,USER-001
+L3,MEM-DETAIL,회원 상세,권한/상태/로그,/members/:id,,USER-002
+L3,MEM-BAN,정지/해제,일시/영구 정지,/members/:id/ban,,USER-003
+L2,FAC,시설,시설 CRUD·바우처 여부,/facilities,,FAC-001~002
+L3,FAC-LIST,시설 목록,필터/검색/일괄작업,/facilities,,FAC-001
+L3,FAC-NEW,시설 추가,주소·시설명·바우처/주차장 여부 등록,/facilities/new,,FAC-001
+L3,FAC-DETAIL,시설 상세,정보 수정·승인·로그 확인,/facilities/:id,,FAC-002
+L3,FAC-REQUEST,시설 추가 요청 승인,사용자 제안 시설 승인/반려,/facilities/requests,,FAC-002
