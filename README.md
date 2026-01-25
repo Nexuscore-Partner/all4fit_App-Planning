@@ -18,7 +18,7 @@
 
 | **1. 화면 기획서** | **2. 디자인 시스템** | **3. 랜딩 페이지** | **4. 앱 화면** |
 | :---: | :---: | :---: | :---: |
-| <img src="images/readme/wireframe.png" width="200" alt="Wireframe"> | <img src="images/readme/design-system.png" width="200" alt="Design System"> | <img src="images/readme/web-preview.jpeg" width="200" alt="Landing Page"> | <img src="images/readme/app-combined.png" width="200" alt="App Screen"> |
+| <img src="https://github.com/user-attachments/assets/87e4d881-d4fb-457a-860d-23c8b29f98b2" width="200" alt="Wireframe"> | <img src="https://github.com/user-attachments/assets/7a46549f-de4e-42cd-8e65-b2b76c29c092" width="200" alt="Design System"> | <img src="https://github.com/user-attachments/assets/c9534463-d44e-4263-bb4a-916b43ce5184" width="200" alt="Landing Page"> | <img src="https://github.com/user-attachments/assets/5292b766-f669-4e8b-9dcf-a6456c330297" width="200" alt="App Screen"> |
 | *UX 흐름 및 와이어프레임* | *Figma 디자인 시스템* | *[all4fit.co.kr](https://all4fit.co.kr)* | *iOS/Android 실서비스* |
 
 ---
